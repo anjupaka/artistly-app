@@ -33,7 +33,7 @@ A responsive frontend web demo built with **Next.js 13+**, **Tailwind CSS**, and
 ## 📦 Installation & Setup
 
 ```bash
-git clone 
+git clone https://github.com/anjupaka/artistly-app
 cd artistly-app
 npm install
 npm run dev
