@@ -4,11 +4,6 @@ A responsive frontend web demo built with **Next.js 13+**, **Tailwind CSS**, and
 
 ---
 
-## 🚀 Live Preview
-
-👉 click here to live preview [artistly-app-xi.vercel.app/]
-
----
 
 ## 🛠 Tech Stack
 
