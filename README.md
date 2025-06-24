@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎭 Artistly - Performing Artist Booking Platform
 
-## Getting Started
+A responsive frontend web demo built with **Next.js 13+**, **Tailwind CSS**, and **ShadCN UI**.
 
-First, run the development server:
+---
+
+## 🚀 Live Preview
+
+👉 [Click here to view the app on Vercel](https://artistly-app.vercel.app)
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js 13 App Router
+- React Functional Components
+- Tailwind CSS
+- ShadCN UI
+- React Hook Form + Yup
+- JSON data as mock API
+
+---
+
+## 📄 Pages Implemented
+
+- ✅ Homepage with artist categories
+- ✅ Artist Listing Page (with filters)
+- ✅ Artist Onboarding Form (validated)
+- ✅ Optional Manager Dashboard
+
+---
+
+## 📦 Installation & Setup
 
 ```bash
+git clone 
+cd artistly-app
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 💾 Step 2: Commit & Push README.md
 
-To learn more about Next.js, take a look at the following resources:
+Run the following commands in your VS Code terminal:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+git add README.md
+git commit -m "chore: add Vercel live link and project description to README"
+git push origin main
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
