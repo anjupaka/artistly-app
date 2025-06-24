@@ -6,7 +6,7 @@ A responsive frontend web demo built with **Next.js 13+**, **Tailwind CSS**, and
 
 ## 🚀 Live Preview
 
-👉 [Click here to view the app on Vercel](https://artistly-app.vercel.app)
+👉 artistly-app-xi.vercel.app/
 
 ---
 
